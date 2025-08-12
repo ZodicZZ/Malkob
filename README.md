@@ -1,6 +1,8 @@
 🚨 MALKON – CCTV Exploitation & Recon Framework 🕵️‍♂️
 -------------------------------------------------------
 
+Works on Windows ONLY ⚠️
+
 📜 Overview:
 MALKON is a CCTV reconnaissance & exploitation tool for red teams and IoT security testing. Scans, identifies, and assesses vulnerable IP cameras/DVRs/NVRs across networks.
 
